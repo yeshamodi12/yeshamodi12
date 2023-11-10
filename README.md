@@ -2,5 +2,9 @@
 - 👀 I’m interested in DAta anylitics
 - 🌱 I’m currently learning python and algorithmss for ML
 -- Technical Trainer for  PowerBi,Business Excel,Tableau
+
+
+
+
   How to reach me:-modiyesha12@gmail.com
 
